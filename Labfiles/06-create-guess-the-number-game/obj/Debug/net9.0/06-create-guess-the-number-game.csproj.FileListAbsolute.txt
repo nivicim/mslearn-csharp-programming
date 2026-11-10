@@ -1,0 +1,15 @@
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.GeneratedMSBuildEditorConfig.editorconfig
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.AssemblyInfoInputs.cache
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.AssemblyInfo.cs
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.csproj.CoreCompileInputs.cache
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.sourcelink.json
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net9.0/06-create-guess-the-number-game
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net9.0/06-create-guess-the-number-game.deps.json
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net9.0/06-create-guess-the-number-game.runtimeconfig.json
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net9.0/06-create-guess-the-number-game.dll
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net9.0/06-create-guess-the-number-game.pdb
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.dll
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/refint/06-create-guess-the-number-game.dll
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.pdb
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/06-create-guess-the-number-game.genruntimeconfig.cache
+/home/vini/dev/ms-learn-cs/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net9.0/ref/06-create-guess-the-number-game.dll
